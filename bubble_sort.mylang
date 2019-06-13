@@ -1,6 +1,7 @@
 write("enter array size")
 n = read()
 a = [n]
+write("enter array")
 for (i = 0; i < n; i = i + 1) {
     a[i] = read()
 }
